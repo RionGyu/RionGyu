@@ -34,7 +34,6 @@ Used at Last one
    <img src="https://img.shields.io/badge/jquery-blue?style=for-the-badge&logo=jquery&logoColor=black">
   </picture>
   <picture>
-
    <img src="https://img.shields.io/badge/springboot-green?style=for-the-badge&logo=springboot&logoColor=white">
   </picture>
   <picture>
@@ -42,6 +41,12 @@ Used at Last one
   </picture>
   <picture>
    <img src="https://img.shields.io/badge/postgresql-grey?logo=postgresql&style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+   <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css&logoColor=blue">
+  </picture>
+   <picture>
+   <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white">
   </picture>
   </section>
  <section>
