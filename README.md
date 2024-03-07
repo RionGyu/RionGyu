@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20Profile&fontSize=90%)
 <div>
-#MY Career
+#About me
 
 ### 심규인
 rbdls007@naver.com
