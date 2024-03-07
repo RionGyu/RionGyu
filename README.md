@@ -40,9 +40,7 @@ rbdls007@naver.com
    <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white">
   </picture>
   </section>
- <section>
- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RionGyu&layout=compact">
- </section>
+
  
 ## Careers
 
@@ -66,7 +64,9 @@ Software Engineer
 - 담당업무 : 도서관련 WMS 주요 개발업무 진행 (사원 관리, API 활용 및 도서 등록, 관리)
 
  ![RionGyu's github stats](https://github-readme-stats.vercel.app/api?username=RionGyu&show_icons=true)
-
+ <section>
+ 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RionGyu&layout=compact">
+ </section>
 </div>
 
 <!--
