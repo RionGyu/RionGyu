@@ -61,12 +61,20 @@ Projects
 - 개요 : Legacy 프로젝트 B2B 다수 고객사 요청에 의한 유지보수 관리
 - 사용기술 : JAVA, javascript, EXTjs, mySQL
 - 담당업무 : 웹frontend 및 sql 개선
+   1. 구글차트 API 활용하여 담당자별 불량품 조회
+   2. 주문목록에 조건 추가
+   3. 프로시저 활용
 ##### 날개 물류 WMS
 - 기간 : 2023.08~2023.12
 - 개요 : 날개물류 관련 WMS 개발
 - 사용기술 : JAVA, javascript, EXTjs, CSS5, mySQL
 - 담당업무 : 도서관련 WMS 주요 개발업무 진행 (사원 관리, API 활용 및 도서 등록, 관리)
-
+- 
+### 강남중앙정보처리학원
+- 기간 : 2023.05~2023.07
+- 개요 : Legacy 프로젝트 B2B 다수 고객사 요청에 의한 유지보수 관리
+- 사용기술 : JAVA, javascript, EXTjs, mySQL
+- 담당업무 : 웹frontend 및 sql 개선
  ![RionGyu's github stats](https://github-readme-stats.vercel.app/api?username=RionGyu&show_icons=true)
  <section>
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RionGyu&layout=compact">
