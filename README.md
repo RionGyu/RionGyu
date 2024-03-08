@@ -1,13 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20Profile&fontSize=90%)
 <div>
-#About me
 
+ About me
+=============
+ 
 ### 심규인
 rbdls007@naver.com
 `#1993년생` `#서울구로구`
 
-##Skill
+### Skill
  <section>
   <picture>
    <img src="https://img.shields.io/badge/java-orange?logo=java&style=for-the-badge&logoColor=black">
@@ -42,14 +44,16 @@ rbdls007@naver.com
   </section>
 
  
-## Careers
+Careers
+-------------
 
 #### 우신 인포텍
 2023.05~2023.12
 솔루션 웹 개발팀
 Software Engineer
 
-##Projects
+Projects
+-------------
 
 ### 우신인포텍
 ##### MES LEGACY
