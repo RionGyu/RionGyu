@@ -63,6 +63,19 @@ Software Engineer
 
 Projects
 -------------
+### 세움웹
+##### 클린24 고도몰 튜닝
+- 기간 : 2024.08.27~2024.09.04
+- 개요 : 카카오 1초 로그인/회원가입
+- 사용기술 : PHP, javascript,jquery, mySQL
+- 담당업무 : 고도몰 backend 개선
+
+##### 고도몰 경매사이트
+- 기간 : 2024.08~2024.09
+- 개요 : 실시간 입찰 및 즉시구매
+- 사용기술 : PHP, javascript,jquery, mySQL
+- 담당업무 : 고도몰 backend 및 frontend를 활용하여 경매프로그램
+
 
 ### 우신인포텍
 ##### MES LEGACY
