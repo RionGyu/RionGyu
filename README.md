@@ -12,6 +12,9 @@ rbdls007@naver.com
 ### Skill
  <section>
   <picture>
+   <img src="https://img.shields.io/badge/php-blue?logo=php&style=for-the-badge&logoColor=black">
+  </picture>
+  <picture>
    <img src="https://img.shields.io/badge/java-orange?logo=java&style=for-the-badge&logoColor=black">
   </picture>
   <picture>
